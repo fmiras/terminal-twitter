@@ -1,0 +1,9 @@
+{
+  "name": "terminal-twitter",
+  "description": "See tweets via console! (ideal for terminal addicts)",
+  "license": "MIT",
+  "dependencies": {
+    "cli-box": "6.0.7",
+    "colors": "1.1.2"
+  }
+}
