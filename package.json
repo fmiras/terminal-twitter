@@ -4,11 +4,15 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "start": "micro"
+    "start": "micro",
+    "test": "standard"
   },
   "dependencies": {
     "cli-box": "6.0.7",
     "colors": "1.1.2",
     "micro": "9.1.0"
+  },
+  "devDependencies": {
+    "standard": "10.0.3"
   }
 }
