@@ -9,12 +9,12 @@
     "test": "standard"
   },
   "dependencies": {
-    "cli-box": "6.0.7",
-    "colors": "1.1.2",
-    "micro": "9.1.0"
+    "cli-box": "6.0.8",
+    "colors": "1.2.1",
+    "micro": "9.1.4"
   },
   "devDependencies": {
     "micro-dev": "2.2.0",
-    "standard": "10.0.3"
+    "standard": "11.0.0"
   }
 }
