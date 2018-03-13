@@ -1,7 +1,7 @@
 # terminal-twitter
 See tweets via console! (ideal for terminal addicts)
 
-![screenshot](https://fmiras.com/static/images/terminal-twitter.png)
+![screenshot](https://i.imgur.com/EphyJGP.jpg)
 
 ## Installation
 This project use [ZEIT](https://zeit.co) [now](https://zeit.co/now) cloud hosting platform but you can use your preferred cloud option such as Heroku or AWS.
