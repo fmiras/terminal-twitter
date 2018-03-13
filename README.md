@@ -1,4 +1,8 @@
 # terminal-twitter
+[![Build Status](https://travis-ci.org/fmiras/terminal-twitter.svg?branch=master)](https://travis-ci.org/fmiras/terminal-twitter)
+[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://github.com/standard/standard)
+[![Greenkeeper badge](https://badges.greenkeeper.io/fmiras/terminal-twitter.svg)](https://greenkeeper.io/)
+
 See tweets via console! (ideal for terminal addicts)
 
 ![screenshot](https://i.imgur.com/EphyJGP.jpg)
