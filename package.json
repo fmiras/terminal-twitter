@@ -14,7 +14,7 @@
     "micro": "9.1.4"
   },
   "devDependencies": {
-    "micro-dev": "2.2.1",
+    "micro-dev": "2.2.2",
     "standard": "11.0.1"
   }
 }
