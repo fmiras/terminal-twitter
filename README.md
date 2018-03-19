@@ -5,7 +5,7 @@
 
 See tweets via console! (ideal for terminal addicts)
 
-![screenshot](https://i.imgur.com/EphyJGP.jpg)
+![screenshot](https://i.imgur.com/aJtWvt9.gif)
 
 ## Installation
 This project use [ZEIT](https://zeit.co) [now](https://zeit.co/now) cloud hosting platform but you can use your preferred cloud option such as Heroku or AWS.
