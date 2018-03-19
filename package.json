@@ -1,6 +1,7 @@
 {
   "name": "terminal-twitter",
   "description": "See tweets via console! (ideal for terminal addicts)",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
