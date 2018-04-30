@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "cli-box": "6.0.8",
-    "colors": "1.2.1",
+    "colors": "1.2.2",
     "micro": "9.2.0"
   },
   "devDependencies": {
