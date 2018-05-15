@@ -12,7 +12,7 @@
   "dependencies": {
     "cli-box": "6.0.8",
     "colors": "1.2.3",
-    "micro": "9.2.0"
+    "micro": "9.3.1"
   },
   "devDependencies": {
     "micro-dev": "2.2.2",
