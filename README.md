@@ -23,7 +23,7 @@ With [now](https://zeit.co/now):
 - `now logs {deployment-id} -f` at your terminal and you should start receiveng tweets!
 
 ### Try it on your computer!
-Clone it and run this commands:
+Clone the repo and this commands on the root project directory:
 
     npm install
     npm start
